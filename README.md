@@ -10,7 +10,13 @@
 
 
 
+## [mvvmlight-Net5](https://github.com/eora21/WPF-mvvm/tree/main/mvvmlight-Net5#mvvmlight-net5)
+
+> mvvmlight를 사용하여 손쉽게 패턴 구축, Net5 기준
+
+
+
 ---
 
-- Net5 기준 및 mvvmlight 없이 구축하는 방법은 추후 업로드 예정
+- mvvmlight 없이 구축하는 방법은 추후 업로드 예정
 
